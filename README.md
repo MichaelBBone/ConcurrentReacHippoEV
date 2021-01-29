@@ -23,7 +23,7 @@ DNN\<feature level\>Mix1Mat(3X3)HR.mat - matlab matrix data file containing hemo
 
 DNN\<feature level\>Mix2Mat(3X3)HR.mat - matlab matrix data file containing hemodynamically smoothed features (columns) for all time-points (rows) extracted from VGG16 for movie 2.
 
-<b>Brain (vertex) activity:</b>
+<b>Brain activity:</b>
 
 ROINamesDiv.RData - R data file containing a list of FreeSurfer ROI groupings. ROI groupings: 1 = 'LowOc' (lower occipital), 2 = 'HighOc' (higher occipital), 3 = 'Tmprl' (temporal), 4 = 'Prtl' (parietal), 5 = 'Front' (frontal), 6 = 'Other', 7 = 'Hippo' (hippocampus).
 
