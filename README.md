@@ -1,7 +1,7 @@
 # ConcurrentReacHippoEV
 code and data repository for "Concurrent feature-specific reactivation within the hippocampus and neocortex facilitates episodic memory retrieval"
 
-Download the release for all files. Only the release contains the neural activity data (used in FeatSpecifReac.R) due to file size limitations.
+Download the release for all files. Only the release contains the neural activity data (used in FeatSpecifReac.R and ItemSpecifReac.R) due to file size limitations.
 
 ## Scripts
 
